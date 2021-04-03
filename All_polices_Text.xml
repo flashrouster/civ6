@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData> 
+	<LocalizedText>	
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_1_DESCRIPTION" Language="en_US">
+			<Text>More policy solts</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>额外政策槽位。可选择全部当前可选政策。</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_1_NAME" Language="en_US">
+			<Text>More policy solts</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_1_NAME"  Language="zh_Hans_CN">
+			<Text>白板特性</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_2_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_2_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_2_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_3_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_3_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_3_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_4_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_4_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_4_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_4_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_5_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_5_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_5_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_5_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_6_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_6_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_6_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_6_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_7_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_7_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_7_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_7_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_8_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_8_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_8_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_8_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_9_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_9_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_9_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_9_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_10_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_10_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_10_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_10_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_11_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_11_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_11_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_11_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_12_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_12_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_12_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_12_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_13_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_13_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_13_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_13_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_14_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_14_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_14_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_14_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_15_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_15_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_15_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_15_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_16_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_16_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_16_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_16_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_17_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_17_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_17_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_17_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_18_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_18_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_18_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_18_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_19_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_19_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_19_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_19_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_20_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_20_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_MILITARY_CARDS_20_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_MILITARY_CARDS_20_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_1_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_1_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_1_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_2_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_2_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_2_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_3_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_3_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_3_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_4_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_4_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_4_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_4_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_5_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_5_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_5_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_5_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_6_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_6_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_6_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_6_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_7_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_7_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_7_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_7_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_8_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_8_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_8_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_8_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_9_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_9_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_9_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_9_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_10_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_10_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_10_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_10_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_11_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_11_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_11_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_11_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_12_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_12_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_12_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_12_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_13_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_13_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_13_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_13_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_14_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_14_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_14_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_14_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_15_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_15_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_15_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_15_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_16_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_16_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_16_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_16_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_17_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_17_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_17_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_17_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_18_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_18_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_18_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_18_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_19_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_19_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_19_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_19_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_20_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_20_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_20_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_ECONOMIC_CARDS_20_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_1_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_1_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_1_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_2_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_2_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_2_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_3_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_3_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_3_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_4_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_4_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_4_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_4_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_5_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_5_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_5_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_5_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_6_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_6_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_6_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_6_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_7_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_7_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_7_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_7_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_8_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_8_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_8_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_8_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_9_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_9_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_9_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_9_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_10_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_10_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_10_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_10_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_11_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_11_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_11_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_11_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_12_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_12_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_12_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_12_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_13_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_13_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_13_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_13_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_14_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_14_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_14_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_14_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_15_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_15_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_15_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_15_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_16_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_16_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_16_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_16_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_17_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_17_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_17_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_17_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_18_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_18_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_18_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_18_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_19_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_19_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_19_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_19_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_20_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_20_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_20_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_DIPLOMATIC_CARDS_20_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_1_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_1_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_1_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_1_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_2_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_2_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_2_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_2_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_3_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_3_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_3_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_4_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_4_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_4_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_4_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_5_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_5_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_5_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_5_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_6_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_6_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_6_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_6_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_7_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_7_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_7_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_7_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_8_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_8_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_8_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_8_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_9_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_9_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_9_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_9_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_10_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_10_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_10_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_10_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_11_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_11_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_11_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_11_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_12_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_12_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_12_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_12_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_13_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_13_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_13_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_13_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_14_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_14_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_14_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_14_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_15_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_15_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_15_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_15_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_16_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_16_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_16_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_16_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_17_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_17_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_17_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_17_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_18_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_18_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_18_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_18_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_19_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_19_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_19_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_19_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_20_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_20_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_20_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_20_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_21_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_21_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_21_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_21_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_22_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_22_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_22_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_22_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_23_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_23_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_23_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_23_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_24_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_24_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_24_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_24_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_25_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_25_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_25_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_25_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_26_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_26_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_26_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_26_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_27_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_27_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_27_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_27_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_28_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_28_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_28_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_28_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_29_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_29_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_29_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_29_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_30_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_30_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_30_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_30_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_31_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_31_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_31_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_31_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_32_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_32_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_32_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_32_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_33_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_33_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_33_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_33_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_34_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_34_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_34_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_34_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_35_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_35_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_35_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_35_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_36_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_36_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_36_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_36_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_37_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_37_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_37_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_37_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_38_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_38_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_38_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_38_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_39_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_39_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_39_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_39_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+      <Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_40_DESCRIPTION" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_40_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+		<Row Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_40_NAME" Language="en_US">
+			<Text>[NEWLINE]</Text>
+		</Row>
+		<Replace Tag="LOC_TRAIT_MORE_WILDCARD_CARDS_40_NAME"  Language="zh_Hans_CN">
+			<Text>[NEWLINE]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
