@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameInfo>
+	<CivilizationTraits>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" TraitType="TRAIT_CIVILIZATION_WONDER_TOURISM"/>
+		<Delete CivilizationType="CIVILIZATION_FRANCE" TraitType="TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE"/>		
+	</CivilizationTraits>
+	<LeaderTraits>
+		<Delete LeaderType="LEADER_CATHERINE_DE_MEDICI" TraitType="FLYING_SQUADRON_TRAIT"/>
+	</LeaderTraits>
+</GameInfo>
